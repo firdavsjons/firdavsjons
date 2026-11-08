@@ -1,18 +1,18 @@
 # Привет, я Фирдавс 👋
 
-Студент 2-го курса «Прикладная информатика» (РТСУ, Душанбе). Развиваюсь как **Junior Backend-разработчик на Python**. Ищу стажировку или junior-позицию, готов к удалённой работе.
+Студент 3-го курса «Прикладная информатика» (РТСУ, Душанбе). Развиваюсь как **Junior Backend-разработчик на Python**. 
 
 ## Чем занимаюсь
 
 - Пишу backend на Python: REST API на FastAPI, база данных PostgreSQL, миграции Alembic
 - Делаю Telegram-ботов и голосовых ассистентов
-- Сейчас изучаю: Git, Docker, SQLAlchemy / Alembic, pytest
+- Работаю с: Git, Docker, SQLAlchemy / Alembic, pytest
 
 ## Стек
 
 **Основной:** Python, FastAPI, PostgreSQL, REST API, SQLAlchemy, Alembic, aiogram
 
-**Также знаком:** C++, Java, Unity (C#)
+**Также знаком:** C++, Java
 
 **Инструменты:** Git, Docker, PyCharm, VS Code, DBeaver, IntelliJ IDEA
 
